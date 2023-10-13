@@ -4,6 +4,7 @@
 - Medha Karthik
   
 **Scrum Master:**
+- Jason Pham
 
 **Developers:**
 - Akhil Gundabathula
